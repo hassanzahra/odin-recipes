@@ -1,0 +1,58 @@
+h1 {
+    color: rgb(161, 116, 48);
+    text-align: center;
+    font-family: fantasy;
+   }
+    h1 {
+        position: absolute;
+        top: 30px;
+        left: 475px;
+    }
+.cookie{
+    position: relative;
+    top: 130px;
+    left: 335px;
+}
+.description{
+    position: absolute;
+    top: 500px;
+    left: 0px;
+}
+.description{
+    list-style-position: inside;
+    text-align: center;
+}
+h2, h3{
+    color: rgb(161, 116, 48);
+    text-align: center;
+}
+h2{
+    position: absolute;
+    top: 575px;
+    left: 585px;
+    font-size: 20px;
+}
+ul {
+    list-style: none;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+ul{
+    position: absolute;
+    top: 610px;
+    left: 420px;
+}
+h3{
+    position: absolute;
+    top: 880px;
+    left: 610px;
+    font-size: 20px;
+}
+ol{
+    list-style-position: outside;
+    position: absolute;
+    top: 920px;
+    left: 60px;
+}

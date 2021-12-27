@@ -1,0 +1,56 @@
+h1 {
+    color: rgb(161, 116, 48);
+    text-align: center;
+    font-family: fantasy;
+   }
+    h1 {
+        position: absolute;
+        top: 30px;
+        left: 499px;
+    }
+   .Walnut {
+       position: relative;
+       top: 130px;
+       left: 340px;
+   }
+   h2, h3 {
+       color: rgb(161, 116, 48);
+       text-align: center;
+   }
+   .description {
+       position: absolute;
+       top: 500px;
+       left: 100px;
+   }
+   .description{
+       list-style-position: inside;
+       text-align: center;
+   }
+   h2{
+    position: absolute;
+    top: 540px;
+    left: 585px;
+    font-size: 20px;
+   }
+   ul{
+    text-align: center;
+    list-style-position: inside;
+    list-style: none;
+   }
+   ul{
+    position: absolute;
+    top: 575px;
+    left: 413px;
+}
+h3{
+    position: absolute;
+    top: 815px;
+    left: 615px;
+    font-size: 20px;
+}
+ol{
+    list-style-position: outside;
+    position: absolute;
+    top: 850px;
+    left: 60px;
+}

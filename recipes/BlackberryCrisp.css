@@ -1,0 +1,84 @@
+h1 {
+ color: rgb(161, 116, 48);
+ text-align: center;
+ font-family: fantasy;
+}
+ h1 {
+     position: absolute;
+     top: 30px;
+     left: 499px;
+ }
+.Crisp {
+    position: relative;
+    top: 130px;
+    left: 340px;
+}
+h2, h3 {
+    color: rgb(161, 116, 48);
+    text-align: center;
+}
+.Description {
+    position: absolute;
+    top: 500px;
+    left: 100px;
+}
+.description{
+    list-style-position: inside;
+    text-align: center;
+}
+h2 {
+    position: absolute;
+    top: 555px;
+    left: 585px;
+    font-size: 20px;
+}
+.Ingredients{
+   position: absolute;
+   top: 590px;
+   left: 590px
+}
+.Ingredients{
+    font-weight: bold;
+    font-size: 15px
+}
+ul{
+    text-align: center;
+    list-style-position: inside;
+    list-style: none;
+}
+ul{
+    position: absolute;
+    top: 610px;
+    left: 452px;
+}
+.topping{
+   position: absolute;
+   top: 720px;
+   left: 583px
+}
+.topping{
+    font-weight: bold;
+    font-size: 15px;
+}
+.top{
+    text-align: center;
+    list-style-position: inside;
+    list-style: none;
+}
+.top{
+    position: absolute;
+    top: 740px;
+    left: 460px;
+}
+h3{
+    position: absolute;
+    top: 895px;
+    left: 610px;
+    font-size: 20px;
+}
+ol{
+    list-style-position: outside;
+    position: absolute;
+    top: 930px;
+    left: 60px;
+}

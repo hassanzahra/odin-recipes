@@ -1,0 +1,53 @@
+h1 {
+    color: rgb(161, 116, 48);
+    text-align: center;
+    font-family: fantasy;
+}
+.Recipes {
+    position: relative;
+    top: 27px;
+    left: 0;
+  }
+  .image1 {
+    position: relative;
+    top: 100px;
+    left: 150px;
+  
+  }
+  .image2 {
+      position: relative;
+      top: 100px;
+      left: 140px;
+     
+  }
+  .image3 {
+     position: relative;
+     top: 100px;
+     left: 127px;
+    
+  }
+  
+
+.DoubleTree,
+.Brownies,
+.Blackberry {
+    color: rgb(161, 116, 48);
+}
+
+.DoubleTree {
+    position: absolute;
+    top: 550px;
+    left: 250px;
+}
+
+.Brownies {
+    position: absolute;
+    top: 550px;
+    left: 585px;
+}
+
+.Blackberry {
+    position: absolute;
+    top: 550px;
+    left: 915px;
+}
