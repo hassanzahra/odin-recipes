@@ -12,6 +12,7 @@ h1 {
     position: relative;
     top: 100px;
     left: 150px;
+       display: flex;
     flex: 1;
   
   }
@@ -19,12 +20,14 @@ h1 {
       position: relative;
       top: 100px;
       left: 140px;
+      display: flex;
       flex: 1;
   }
   .image3 {
      position: relative;
      top: 100px;
      left: 127px;
+       display: flex;
       flex: 1;
   }
   
