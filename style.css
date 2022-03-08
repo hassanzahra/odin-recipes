@@ -12,20 +12,17 @@ h1 {
     position: relative;
     top: 100px;
     left: 150px;
-    flex-flow: column wrap;
   
   }
   .image2 {
       position: relative;
       top: 100px;
       left: 140px;
-      flex-flow: column wrap;
   }
   .image3 {
      position: relative;
      top: 100px;
      left: 127px;
-     flex-flow: column wrap;
   }
   
 
