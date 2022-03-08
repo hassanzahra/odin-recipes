@@ -12,7 +12,8 @@ h1 {
     position: relative;
     top: 100px;
     left: 150px;
-  
+  max-width: 100%;
+  display: block;
   }
   .image2 {
       position: relative;
