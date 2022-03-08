@@ -12,20 +12,20 @@ h1 {
     position: relative;
     top: 100px;
     left: 150px;
-    flex-directions: row;
+    flex-directions: column;
   
   }
   .image2 {
       position: relative;
       top: 100px;
       left: 140px;
-     flex-directions: row;
+     flex-directions: column;
   }
   .image3 {
      position: relative;
      top: 100px;
      left: 127px;
-    flex-directions: row;
+    flex-directions: column;
   }
   
 
