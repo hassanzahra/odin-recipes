@@ -12,17 +12,20 @@ h1 {
     position: relative;
     top: 100px;
     left: 150px;
+    flex: 1;
   
   }
   .image2 {
       position: relative;
       top: 100px;
       left: 140px;
+      flex: 1;
   }
   .image3 {
      position: relative;
      top: 100px;
      left: 127px;
+      flex: 1;
   }
   
 
