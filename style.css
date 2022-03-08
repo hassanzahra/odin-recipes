@@ -12,22 +12,16 @@ h1 {
     position: relative;
     top: 100px;
     left: 150px;
-  max-width: 100%;
-  display: block;
   }
   .image2 {
       position: relative;
       top: 100px;
       left: 140px;
-      max-width: 100%;
-      display: block;
   }
   .image3 {
      position: relative;
      top: 100px;
      left: 127px;
-     max-width: 100%;
-     display: block;
   }
   
 
